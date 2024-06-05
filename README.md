@@ -11,6 +11,8 @@ Welcome to the Vrinda Store Sales Analysis project! This project explores advanc
 - To evaluate the effectiveness of various sales channels.
 - To identify the top-performing states in terms of sales.
 
+![Sales Chart](https://github.com/tanwar2845/vrinda_store/blob/main/Screenshot%202024-06-05%20121934.png)
+
 ## Key Insights
 
 1. **Sales Performance:** The store showed positive growth in order counts and sales amounts from January to March, followed by a decline in order counts in the subsequent months.
