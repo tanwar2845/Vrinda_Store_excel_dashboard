@@ -33,7 +33,3 @@ This project explores advanced data visualization techniques in Excel to analyze
 - **Vrinda Store Data Analysis(1).xlsx:** The main Excel file containing the data and visualizations.
 - **README.md:** This file providing an overview of the project.
 
-## Special Thanks
-
-A special thank you to @RishabhMishra for his guidance on this project.
-
