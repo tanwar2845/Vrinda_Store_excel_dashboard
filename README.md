@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Vrinda Store Sales Analysis project! This project explores advanced data visualization techniques in Excel to analyze the sales data of Vrinda Store. It aims to uncover key insights and trends from the sales data to help in decision-making processes.
+This project explores advanced data visualization techniques in Excel to analyze the sales data of Vrinda Store. It aims to uncover key insights and trends from the sales data to help in decision-making processes and build an Excel dashboard.
 
 ## Project Objectives
 
